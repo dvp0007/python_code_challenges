@@ -1,0 +1,1 @@
+{"exampleMapPath": "micrograph_1.jpg", "outputSize": [128, 128], "child_kernel_size": 5, "parent_kernel_size": 3, "saveImgsPath": "out", "saveGifPath": "out/myfile", "pyramidLevels": 4, "pyramidType": "gaussian"}

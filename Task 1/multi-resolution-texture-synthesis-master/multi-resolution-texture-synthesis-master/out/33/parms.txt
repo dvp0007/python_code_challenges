@@ -1,0 +1,1 @@
+{"exampleMapPath": "imgs/8.jpg", "outputSize": [128, 128], "child_kernel_size": 5, "parent_kernel_size": 3, "saveImgsPath": "out/33/", "saveGifPath": "out/out33.gif", "pyramidLevels": 4, "pyramidType": "gaussian"}
